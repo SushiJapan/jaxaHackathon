@@ -4,10 +4,10 @@ This repository is a tutorial about OpenVino and Docker used in a hackathon orga
 # This repository contains the following steps
 
  * Hardware used:
-  * Workstation, iX10
+	* Workstation, iX10
 
  * Environments:
-  * Native, Docker
+	* Native, Docker
 
  * Development lifecycle:
 
