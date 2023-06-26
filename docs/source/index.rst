@@ -11,7 +11,7 @@ Welcome to jaxaHackathon's documentation!
    :caption: Contents:
 
    ./getting_started
-
+   ./getting_started/a_building_environment
 
 
 Indices and tables
