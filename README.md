@@ -11,9 +11,10 @@ This repository is a tutorial about OpenVino and Docker used in a hackathon orga
 
  * Development lifecycle:
 
-	* a) [Workstation/Native] Building machine learning models (Torch/TF, etc.)
+	* a) [Workstation/Native] Building environment and machine learning models (Torch/TF, etc.)
+		* Description
 
-	* b) [Workstation/Native] Model lightweighting (quantization, etc.) and evaluation (Vino)
+	* b) [Workstation/Native] Model lightweighting (quantization, etc.), Convert IR and evaluation (Vino)
 
 	* c) [Workstation/Docker] Downloading and installing standardized Docker from Git
 
