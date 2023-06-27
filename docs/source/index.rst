@@ -33,7 +33,7 @@ PYNQ Background
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 5
    :caption: Contents:
    :numbered:
 

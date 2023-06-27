@@ -15,6 +15,7 @@ Getting Started
 
    ./a_building_environment
    ./b_convert_ir
+   ./c_docker_installation
 
 
 ######################
@@ -26,3 +27,5 @@ Performance Evaluation
 .. toctree::
 
    ./performance_evaluation
+
+
